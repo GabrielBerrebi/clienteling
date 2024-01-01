@@ -1,0 +1,13 @@
+																				Application : Clienteling
+														# App qui va permettre aux vendeurs d'enregistrer un clients, avoir acces egalement aux listes de clients 
+														# Client peuvent faire du shopping dedans
+														
+														
+														
+														
+														
+			Moshe																																				Gabriel
+			
+	- 1 .Page Login																																- 2*. List de client 
+	# Permet a utilisateur (vendeur/client) de se connecter																						# Permet a un vendeur de voir la liste des clients
+	# Base de donnees en Firebase																												# Base de Donnees Firebase
